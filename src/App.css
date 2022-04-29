@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.cabecalho{
+  position: relative;
+  width: 100%;
+  height: 150px;
+  background-color: brown;
+  text-align: center;
+}
+
+.menu{
+  position: relative;
+  width: 100%;
+  height:90px;
+  background-color: #b414b9;
+  text-align: center;
+}
+
+.conteudo{
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background-color: #06c4b4;
+  text-align: center;
+}
+
+.galeria_fotos{
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background-color: #ddcf09;
+  text-align: center;
+}
+
+.rodape{
+  position: relative;
+  width: 100%;
+  height: 300px;
+  background-color: #07a114;
+  text-align: center;
+}
